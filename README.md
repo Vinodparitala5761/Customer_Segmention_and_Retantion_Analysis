@@ -117,4 +117,4 @@ This project analyzes **500,000+ Uber ride records** to uncover hidden behaviora
 
 ## 📬 Contact
 
-Feel free to connect or reach out via [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) or open an issue on this repo.
+Feel free to connect or reach out via [LinkedIn](linkedin.com/in/vinod-paritala-1a2a282ab) or open an issue on this repo.
